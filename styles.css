@@ -212,4 +212,13 @@ footer .logo{
     #projects{
         margin-left: 20px;
     }
-}             
+}          
+
+/*Pantallas HD*/
+
+@media(max-width:1920px){
+    #projects article:nth-last-child(3) img{
+        height: 340px;
+    }
+
+}
